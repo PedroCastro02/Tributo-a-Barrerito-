@@ -1,4 +1,4 @@
-# Tributo-a-Barrerito-
+# TributoAoBarrerito
 Site em homenagem a Barrerito (exercício da B7Web)
 
 ## link do Projeto
